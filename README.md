@@ -1,4 +1,4 @@
-# nn_algorithm_matlab
+# Neural Network Algorithm
 Neural Network algorithm using MATLAB/Octave language. Using fminunc to solve for local minimum. 
 Follows content that was taught in Andrew Ng's Machine Learning course.
 
